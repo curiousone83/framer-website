@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Stopka" transform="translate(-298.000000, -50.000000)" fill="#C4BCFA" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(199.000000, 30.000000)">
+                <path d="M118,20 L104,20 C101.239,20 99,22.239 99,25 L99,39 C99,41.761 101.239,44 104,44 L118,44 C120.762,44 123,41.761 123,39 L123,25 C123,22.239 120.762,20 118,20 Z M107,39 L104,39 L104,28 L107,28 L107,39 Z M105.5,26.732 C104.534,26.732 103.75,25.942 103.75,24.968 C103.75,23.994 104.534,23.204 105.5,23.204 C106.466,23.204 107.25,23.994 107.25,24.968 C107.25,25.942 106.467,26.732 105.5,26.732 Z M119,39 L116,39 L116,33.396 C116,30.028 112,30.283 112,33.396 L112,39 L109,39 L109,28 L112,28 L112,29.765 C113.396,27.179 119,26.988 119,32.241 L119,39 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
